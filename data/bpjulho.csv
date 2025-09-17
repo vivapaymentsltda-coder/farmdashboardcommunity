@@ -1,0 +1,90 @@
+﻿BALANCO PATRIMONIAL - BELA VISTA AGROPECUARIA LTDA;;
+;;
+;;
+1;Ativo Total;7.836.413,04
+1.01;Ativo Circulante;1.417.377,98
+1.01.01;Caixa;0,00
+1.01.01.01;Caixa Administrativo;0,00
+1.01.02;Banco c/Movimento;55.391,39
+1.01.02.01;Banco Bradesco;55.057,36
+1.01.02.02;Banco do Nordeste;334,03
+1.01.03;Aplicação Financeira;581.170,00
+1.01.03.01;Banco Bradesco;581.170,00
+1.01.03.02;Banco do Nordeste;0,00
+1.01.04;Contas a Receber;0,00
+1.01.04.01;Cliente A;
+1.01.04.02;Cliente B;
+1.01.04.03;Cliente C;
+1.01.04.04;Cliente D;
+1.01.05;Estoque para Venda;771.917,72
+1.01.05.01;Bezerros - 0 a 12 Meses - Fazenda Escarlata;99.899,92
+1.01.05.02;Novilhos - 13 a 24 meses - Fazenda Escarlata;
+1.01.05.03;Bezerras - 0 a 12 Meses - Fazenda Escarlata;
+1.01.05.04;Novilhas - 13 a 24 meses - Fazenda Escarlata;
+1.01.05.05;Vacas para Venda - Fazenda Escarlata;
+1.01.05.06;Vacas para Venda - Fazenda Arianus II;636.000,00
+1.01.05.07;Bezerros - 0 a 12 Meses - Fazenda Arianus II;18.523,44
+1.01.05.08;Bezerras - 0 a 12 Meses - Fazenda Arianus II;17.494,36
+1.01.05.04;Estoque Operacional;0,00
+1.01.05.04.01;Raçoes;
+1.01.05.04.02;Medicamentos Veterinários;
+1.01.05.04.03;Reproducao Animal;
+1.01.05.04.04;Herbicidas;
+1.01.05.04.05;Sementes;
+1.01.06;Consorcio a Receber;8.898,87
+1.01.06.01;Consorcio Nacional Valtra;8.898,87
+1.02;Ativo Não Circulante;6.419.035,06
+1.02.01;Imobilizado;6.419.035,06
+1.02.01.01;Imobilizado em Operação;1.903.010,06
+1.02.01.01.01;Vacas para Reprodução;1.364.000,00
+1.02.01.01.02;Novilhas para Reprodução;420.800,00
+1.02.01.01.03;Bezerras - 0 a 12 Meses - Fazenda Escarlata;78.210,06
+1.02.01.01.04;Touros;40.000,00
+1.02.01.01.04;Maquinas e Equipamentos;519.750,00
+1.02.01.01.04.01;Ensiladeira FTN Area total ano 2022;77.000,00
+1.02.01.01.04.02;Silonog Nogueira ano 2022;92.750,00
+1.02.01.01.04.03;Vagão Forrageiro Nogueira ano 2022;100.000,00
+1.02.01.01.04.04;Trator MF 290 Ano 2005 4x2;100.000,00
+1.02.01.01.04.05;Trator John Deere 5078 E 2012 4x4;150.000,00
+1.02.01.02;Imóveis;4.500.000,00
+1.02.01.02.01;Fazenda Escarlata;1.500.000,00
+1.02.01.02.02;Fazenda Arianus II;3.000.000,00
+1.02.02;Depreciação Acumulada;-503.725,00
+1.02.02.01;(-) Deprec. Vacas para Reprodução;-172.800,00
+1.02.02.02;(-) Deprec. Touros;
+1.02.02.03;(-) Deprec. Cavalos;
+1.02.02.04;(-) Deprec. Maquinas e Equipamentos;-330.925,00
+;;
+2;Passivo Total;7.836.413,04
+2.01;Passivo Circulante;170.105,69
+2.01.01;Fornecedores;15.210,00
+2.01.01.01;Fornecedores de Mercadorias;6.210,00
+2.01.01.02;Fornecedores de Serviços;9.000,00
+2.01.02;Obrigaçoes Trabalhistas;14.115,52
+2.01.02.01;Salarios a Pagar;
+2.01.02.02;Inss a Pagar;325,40
+2.01.02.03;Fgts a Pagar;485,76
+2.01.02.04;Férias a Pagar;9.107,96
+2.01.02.05;Fgts s/Férias a Pagar;674,64
+2.01.02.06;13 Salario a Pagar;3.278,88
+2.01.02.07;Fgts s/13 Salario a Pagar;242,88
+2.01.02.08;Dividendos a Pagar;
+2.01.03;Obrigaçoes Tributarias;27.530,17
+2.01.03.01;Simples Nacional a Pagar;15.940,87
+2.01.03.02;Parcelamentos Federais a Pagar;11.589,30
+2.01.04;Emprestimo e Financiamentos;113.250,00
+2.01.04.01;Emprestimo Banco do Nordeste;113.250,00
+2.01.04.02;Emprestimo Bradesco;
+2.02;Passivo Não Circulante;133.423,16
+2.02.01;Emprestimo e Financiamentos;107.025,00
+2.02.01.01;Emprestimo Banco do Nordeste;107.025,00
+2.02.01.02;Emprestimo Bradesco;
+2.02.02;Parcelamentos Impostos;26.398,16
+2.02.02.01;Parcelamentos Federais a Pagar;26.398,16
+2.03;Patrimonio Liquido;7.532.884,19
+2.03.01;Patrimonio Liquido;7.532.884,19
+2.03.01.01;Capital Social Bela Vista Agropecuaria;200.000,00
+2.03.01.02;Lucro do Periodo;581.457,70
+2.03.01.03;Prejuizo do Periodo;
+2.03.01.04;Lucros e Prejuizos Acumulados;2.251.426,49
+2.03.01.05;Patrimonio Disponível;4.500.000,00
