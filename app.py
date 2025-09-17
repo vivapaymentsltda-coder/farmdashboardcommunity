@@ -4,10 +4,22 @@ import plotly_express as px
 
 # Título da página
 st.set_page_config(layout="wide")
-st.title("Dashboard Bela Vista Agropecuaria")
 
 # Caminho do arquivo
 file_path = "data/yeardate.csv"
+
+
+col1, col2 = st.columns([0.2, 0.9])
+
+
+with col1:
+    # Substitua o URL abaixo pelo link da sua logo
+    st.image("data/logobelavista.png", width=500)
+
+with col2:
+    # O título ficará ao lado da logo
+    st.markdown("<div style='margin-top: 90px;'></div>", unsafe_allow_html=True)
+    st.title("Fazenda Bela Vista Agropecuária")
 
 try:
     # ---------------------------------------------
@@ -39,8 +51,7 @@ try:
     # Remove valores nulos após a conversão
     df = df.dropna(subset=['Valor'])
 
-    st.header("Prévia dos Dados ")
-    st.dataframe(df.head(200))
+   
     
     st.write("---")
 
